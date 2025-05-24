@@ -150,20 +150,67 @@ async def youtube_dl_call_back(_bot, update):
     if youtube_dl_password is not None:
         command_to_exec.extend(["--password", youtube_dl_password])
 
-    command_to_exec.extend(["--no-warnings"])
+    command_to_exec.extend(["--no-warnings", "--no-simulate", "--quiet"])
 
     logger.info(command_to_exec)
     start = datetime.now()
 
-    process = await asyncio.create_subprocess_exec(
-        *command_to_exec,
+    process = await asyncio.create_subprocess_shell(
+        " ".join(command_to_exec),
         stdout=asyncio.subprocess.PIPE,
         stderr=asyncio.subprocess.PIPE,
     )
 
-    stdout, stderr = await process.communicate()
-    e_response = stderr.decode().strip()
-    t_response = stdout.decode().strip()
+    # Initialize variables for progress tracking
+    downloaded_bytes = 0
+    total_bytes = 0
+    
+    # Read stderr for progress updates
+    while True:
+        line = await process.stderr.readline()
+        if not line:
+            break
+        line = line.decode().strip()
+        # Example: [download] 10.0% of 123.45MiB at 1.23MiB/s ETA 00:10
+        if "[download]" in line and "%" in line:
+            try:
+                parts = line.split()
+                percentage_str = parts[2].replace('%', '')
+                downloaded_str = parts[4]
+                total_str = parts[6]
+                
+                downloaded_value = float(downloaded_str[:-3])
+                downloaded_unit = downloaded_str[-3:]
+                total_value = float(total_str[:-3])
+                total_unit = total_str[-3:]
+
+                # Convert to bytes
+                def convert_to_bytes(value, unit):
+                    if unit == "KiB":
+                        return value * 1024
+                    elif unit == "MiB":
+                        return value * 1024 * 1024
+                    elif unit == "GiB":
+                        return value * 1024 * 1024 * 1024
+                    else: # Assume bytes or unknown
+                        return value
+
+                downloaded_bytes = int(convert_to_bytes(downloaded_value, downloaded_unit))
+                total_bytes = int(convert_to_bytes(total_value, total_unit))
+
+                await progress_for_pyrogram(
+                    downloaded_bytes,
+                    total_bytes,
+                    Translation.DOWNLOAD_START.format(custom_file_name),
+                    update.message,
+                    start
+                )
+            except Exception as e:
+                logger.warning(f"Error parsing yt-dlp progress: {e} - Line: {line}")
+        
+    stdout_bytes, stderr_bytes = await process.communicate()
+    e_response = stderr_bytes.decode().strip()
+    t_response = stdout_bytes.decode().strip()
 
     logger.info(e_response)
     logger.info(t_response)

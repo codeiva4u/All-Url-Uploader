@@ -134,7 +134,7 @@ async def echo(bot, update):
     )
     # Wait for the subprocess to finish
     stdout, stderr = await process.communicate()
-    e_response = stderr.decode().strip()
+    e_response = stderr.decode(errors='ignore').strip()
     logger.info(e_response)
     t_response = stdout.decode().strip()
     # logger.info(t_response)

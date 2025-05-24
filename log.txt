@@ -1,0 +1,599 @@
+__main__ - ERROR - Please set BOT_TOKEN in config.py or as env var
+__main__ - ERROR - Please set API_ID in config.py or as env var
+__main__ - INFO - Bot has started.
+__main__ - INFO - **Bot Started**
+
+**Pyrogram Version:** 2.0.106 
+**Layer:** 158
+__main__ - INFO - Developed by github.com/kalanakt Sponsored by www.netronk.com
+plugins.echo - INFO - {
+    "_": "User",
+    "id": 5809046691,
+    "is_self": false,
+    "is_contact": false,
+    "is_mutual_contact": false,
+    "is_deleted": false,
+    "is_bot": false,
+    "is_verified": false,
+    "is_restricted": false,
+    "is_scam": false,
+    "is_fake": false,
+    "is_support": false,
+    "is_premium": false,
+    "first_name": "My",
+    "last_name": "Bot",
+    "status": "UserStatus.RECENTLY",
+    "username": "iva4ubot",
+    "language_code": "en"
+}
+plugins.echo - INFO - ['yt-dlp', '--no-warnings', '--allow-dynamic-mpd', '-j', 'https://youtube.com/shorts/cHjVl5DJ1ic?si=6_vuDREOtyWfyVNS']
+plugins.echo - INFO - 
+plugins.button - INFO - Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "C:\Users\Ivan-Sunil\AppData\Local\Programs\Python\Python312\Scripts\yt-dlp.exe\__main__.py", line 7, in <module>
+  File "C:\Users\Ivan-Sunil\AppData\Local\Programs\Python\Python312\Lib\site-packages\yt_dlp\__init__.py", line 1100, in main
+    _exit(*variadic(_real_main(argv)))
+                    ^^^^^^^^^^^^^^^^
+  File "C:\Users\Ivan-Sunil\AppData\Local\Programs\Python\Python312\Lib\site-packages\yt_dlp\__init__.py", line 998, in _real_main
+    with YoutubeDL(ydl_opts) as ydl:
+         ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Ivan-Sunil\AppData\Local\Programs\Python\Python312\Lib\site-packages\yt_dlp\YoutubeDL.py", line 713, in __init__
+    import pty
+  File "C:\Users\Ivan-Sunil\AppData\Local\Programs\Python\Python312\Lib\pty.py", line 12, in <module>
+    import tty
+  File "C:\Users\Ivan-Sunil\AppData\Local\Programs\Python\Python312\Lib\tty.py", line 5, in <module>
+    from termios import *
+ModuleNotFoundError: No module named 'termios'
+plugins.button - INFO - 
+plugins.echo - INFO - {
+    "_": "User",
+    "id": 5809046691,
+    "is_self": false,
+    "is_contact": false,
+    "is_mutual_contact": false,
+    "is_deleted": false,
+    "is_bot": false,
+    "is_verified": false,
+    "is_restricted": false,
+    "is_scam": false,
+    "is_fake": false,
+    "is_support": false,
+    "is_premium": false,
+    "first_name": "My",
+    "last_name": "Bot",
+    "status": "UserStatus.RECENTLY",
+    "username": "iva4ubot",
+    "language_code": "en"
+}
+plugins.echo - INFO - ['yt-dlp', '--no-warnings', '--allow-dynamic-mpd', '-j', 'https://youtube.com/shorts/cHjVl5DJ1ic?si=6_vuDREOtyWfyVNS']
+plugins.echo - INFO - {
+    "_": "User",
+    "id": 5809046691,
+    "is_self": false,
+    "is_contact": false,
+    "is_mutual_contact": false,
+    "is_deleted": false,
+    "is_bot": false,
+    "is_verified": false,
+    "is_restricted": false,
+    "is_scam": false,
+    "is_fake": false,
+    "is_support": false,
+    "is_premium": false,
+    "first_name": "My",
+    "last_name": "Bot",
+    "status": "UserStatus.RECENTLY",
+    "username": "iva4ubot",
+    "language_code": "en"
+}
+plugins.echo - INFO - ['yt-dlp', '--no-warnings', '--allow-dynamic-mpd', '-j', 'https://youtube.com/shorts/cHjVl5DJ1ic?si=6_vuDREOtyWfyVNS']
+__main__ - INFO - Bot has started.
+__main__ - INFO - **Bot Started**
+
+**Pyrogram Version:** 2.0.106 
+**Layer:** 158
+__main__ - INFO - Developed by github.com/kalanakt Sponsored by www.netronk.com
+plugins.echo - INFO - {
+    "_": "User",
+    "id": 5809046691,
+    "is_self": false,
+    "is_contact": false,
+    "is_mutual_contact": false,
+    "is_deleted": false,
+    "is_bot": false,
+    "is_verified": false,
+    "is_restricted": false,
+    "is_scam": false,
+    "is_fake": false,
+    "is_support": false,
+    "is_premium": false,
+    "first_name": "My",
+    "last_name": "Bot",
+    "status": "UserStatus.RECENTLY",
+    "username": "iva4ubot",
+    "language_code": "en"
+}
+plugins.echo - INFO - ['yt-dlp', '--no-warnings', '--allow-dynamic-mpd', '-j', 'https://youtube.com/shorts/cHjVl5DJ1ic?si=6_vuDREOtyWfyVNS']
+plugins.echo - INFO - 
+plugins.button - INFO - ['yt-dlp', '-c', '--max-filesize', '4194304000', '--embed-subs', '-f', '617+bestaudio', '--bidi-workaround', 'https://youtube.com/shorts/cHjVl5DJ1ic?si=6_vuDREOtyWfyVNS', '-o', './DOWNLOADS/5809046691THZlx/Just nora things💃💀😂#filmfare#dance##action#norafatehi_617.mp4', '--no-warnings']
+plugins.button - INFO - Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "C:\Users\Ivan-Sunil\AppData\Local\Programs\Python\Python312\Scripts\yt-dlp.exe\__main__.py", line 7, in <module>
+  File "C:\Users\Ivan-Sunil\AppData\Local\Programs\Python\Python312\Lib\site-packages\yt_dlp\__init__.py", line 1100, in main
+    _exit(*variadic(_real_main(argv)))
+                    ^^^^^^^^^^^^^^^^
+  File "C:\Users\Ivan-Sunil\AppData\Local\Programs\Python\Python312\Lib\site-packages\yt_dlp\__init__.py", line 998, in _real_main
+    with YoutubeDL(ydl_opts) as ydl:
+         ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Ivan-Sunil\AppData\Local\Programs\Python\Python312\Lib\site-packages\yt_dlp\YoutubeDL.py", line 713, in __init__
+    import pty
+  File "C:\Users\Ivan-Sunil\AppData\Local\Programs\Python\Python312\Lib\pty.py", line 12, in <module>
+    import tty
+  File "C:\Users\Ivan-Sunil\AppData\Local\Programs\Python\Python312\Lib\tty.py", line 5, in <module>
+    from termios import *
+ModuleNotFoundError: No module named 'termios'
+plugins.button - INFO - 
+__main__ - INFO - Bot has started.
+__main__ - INFO - **Bot Started**
+
+**Pyrogram Version:** 2.0.106 
+**Layer:** 158
+__main__ - INFO - Developed by github.com/kalanakt Sponsored by www.netronk.com
+pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1231] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1231] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1231] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+pyrogram.connection.connection - WARNING - Connection failed! Trying again...
+pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1231] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1231] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+plugins.echo - INFO - {
+    "_": "User",
+    "id": 5809046691,
+    "is_self": false,
+    "is_contact": false,
+    "is_mutual_contact": false,
+    "is_deleted": false,
+    "is_bot": false,
+    "is_verified": false,
+    "is_restricted": false,
+    "is_scam": false,
+    "is_fake": false,
+    "is_support": false,
+    "is_premium": false,
+    "first_name": "My",
+    "last_name": "Bot",
+    "status": "UserStatus.RECENTLY",
+    "username": "iva4ubot",
+    "language_code": "en"
+}
+plugins.echo - INFO - ['yt-dlp', '--no-warnings', '--allow-dynamic-mpd', '-j', 'https://youtube.com/shorts/cHjVl5DJ1ic?si=6_vuDREOtyWfyVNS']
+plugins.echo - INFO - 
+plugins.button - INFO - ['yt-dlp', '-c', '--max-filesize', '4194304000', '--embed-subs', '-f', '302+bestaudio', '--bidi-workaround', 'https://youtube.com/shorts/cHjVl5DJ1ic?si=6_vuDREOtyWfyVNS', '-o', './DOWNLOADS/5809046691xxAlt/Just nora things💃💀😂#filmfare#dance##action#norafatehi_302.webm', '--no-warnings', '--no-simulate', '--quiet']
+plugins.button - INFO - Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "C:\Users\Ivan-Sunil\AppData\Local\Programs\Python\Python312\Scripts\yt-dlp.exe\__main__.py", line 7, in <module>
+  File "C:\Users\Ivan-Sunil\AppData\Local\Programs\Python\Python312\Lib\site-packages\yt_dlp\__init__.py", line 1100, in main
+    _exit(*variadic(_real_main(argv)))
+                    ^^^^^^^^^^^^^^^^
+  File "C:\Users\Ivan-Sunil\AppData\Local\Programs\Python\Python312\Lib\site-packages\yt_dlp\__init__.py", line 998, in _real_main
+    with YoutubeDL(ydl_opts) as ydl:
+         ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Ivan-Sunil\AppData\Local\Programs\Python\Python312\Lib\site-packages\yt_dlp\YoutubeDL.py", line 713, in __init__
+    import pty
+  File "C:\Users\Ivan-Sunil\AppData\Local\Programs\Python\Python312\Lib\pty.py", line 12, in <module>
+    import tty
+  File "C:\Users\Ivan-Sunil\AppData\Local\Programs\Python\Python312\Lib\tty.py", line 5, in <module>
+    from termios import *
+ModuleNotFoundError: No module named 'termios'
+plugins.button - INFO - 
+__main__ - INFO - Bot has started.
+__main__ - INFO - **Bot Started**
+
+**Pyrogram Version:** 2.0.106 
+**Layer:** 158
+__main__ - INFO - Developed by github.com/kalanakt Sponsored by www.netronk.com
+pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1231] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1231] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1231] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+pyrogram.connection.connection - WARNING - Connection failed! Trying again...
+pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1231] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1231] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1231] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+pyrogram.connection.connection - WARNING - Connection failed! Trying again...
+pyrogram.connection.connection - WARNING - Unable to connect due to network issues: Connection timed out
+plugins.echo - INFO - {
+    "_": "User",
+    "id": 5809046691,
+    "is_self": false,
+    "is_contact": false,
+    "is_mutual_contact": false,
+    "is_deleted": false,
+    "is_bot": false,
+    "is_verified": false,
+    "is_restricted": false,
+    "is_scam": false,
+    "is_fake": false,
+    "is_support": false,
+    "is_premium": false,
+    "first_name": "My",
+    "last_name": "Bot",
+    "status": "UserStatus.RECENTLY",
+    "username": "iva4ubot",
+    "language_code": "en"
+}
+plugins.echo - INFO - ['yt-dlp', '--no-warnings', '--allow-dynamic-mpd', '-j', 'https://youtube.com/shorts/cHjVl5DJ1ic?si=6_vuDREOtyWfyVNS']
+plugins.echo - INFO - 
+plugins.button - INFO - ['yt-dlp', '-c', '--max-filesize', '4194304000', '--embed-subs', '-f', '136+bestaudio', '--bidi-workaround', 'https://youtube.com/shorts/cHjVl5DJ1ic?si=6_vuDREOtyWfyVNS', '-o', './DOWNLOADS/5809046691kUjSl/Just nora things💃💀😂#filmfare#dance##action#norafatehi_136.mp4', '--no-warnings', '--no-simulate', '--quiet']
+pyrogram.dispatcher - ERROR - name 'subprocess' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Ivan-Sunil\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyrogram\dispatcher.py", line 240, in handler_worker
+    await handler.callback(self.client, *args)
+  File "C:\Users\Ivan-Sunil\Desktop\All-Url-Uploader\plugins\callbacks.py", line 39, in button
+    await youtube_dl_call_back(bot, update)
+  File "C:\Users\Ivan-Sunil\Desktop\All-Url-Uploader\plugins\button.py", line 158, in youtube_dl_call_back
+    process = subprocess.run(
+              ^^^^^^^^^^
+NameError: name 'subprocess' is not defined. Did you forget to import 'subprocess'
+__main__ - INFO - Bot has started.
+__main__ - INFO - **Bot Started**
+
+**Pyrogram Version:** 2.0.106 
+**Layer:** 158
+__main__ - INFO - Developed by github.com/kalanakt Sponsored by www.netronk.com
+plugins.echo - INFO - {
+    "_": "User",
+    "id": 5809046691,
+    "is_self": false,
+    "is_contact": false,
+    "is_mutual_contact": false,
+    "is_deleted": false,
+    "is_bot": false,
+    "is_verified": false,
+    "is_restricted": false,
+    "is_scam": false,
+    "is_fake": false,
+    "is_support": false,
+    "is_premium": false,
+    "first_name": "My",
+    "last_name": "Bot",
+    "status": "UserStatus.RECENTLY",
+    "username": "iva4ubot",
+    "language_code": "en"
+}
+plugins.echo - INFO - ['yt-dlp', '--no-warnings', '--allow-dynamic-mpd', '-j', 'https://youtube.com/shorts/cHjVl5DJ1ic?si=6_vuDREOtyWfyVNS']
+plugins.echo - INFO - 
+plugins.button - INFO - ['yt-dlp', '-c', '--max-filesize', '4194304000', '--embed-subs', '-f', '18+bestaudio', '--bidi-workaround', 'https://youtube.com/shorts/cHjVl5DJ1ic?si=6_vuDREOtyWfyVNS', '-o', './DOWNLOADS/5809046691xUpWi/Just nora things💃💀😂#filmfare#dance##action#norafatehi_18.mp4', '--no-warnings', '--no-simulate', '--quiet']
+plugins.button - INFO - 
+plugins.button - INFO - 
+pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1231] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+plugins.echo - INFO - {
+    "_": "User",
+    "id": 5809046691,
+    "is_self": false,
+    "is_contact": false,
+    "is_mutual_contact": false,
+    "is_deleted": false,
+    "is_bot": false,
+    "is_verified": false,
+    "is_restricted": false,
+    "is_scam": false,
+    "is_fake": false,
+    "is_support": false,
+    "is_premium": false,
+    "first_name": "My",
+    "last_name": "Bot",
+    "status": "UserStatus.RECENTLY",
+    "username": "iva4ubot",
+    "language_code": "en"
+}
+plugins.echo - INFO - ['yt-dlp', '--no-warnings', '--allow-dynamic-mpd', '-j', 'https://youtube.com/shorts/cHjVl5DJ1ic?si=6_vuDREOtyWfyVNS']
+plugins.echo - INFO - {
+    "_": "User",
+    "id": 5809046691,
+    "is_self": false,
+    "is_contact": false,
+    "is_mutual_contact": false,
+    "is_deleted": false,
+    "is_bot": false,
+    "is_verified": false,
+    "is_restricted": false,
+    "is_scam": false,
+    "is_fake": false,
+    "is_support": false,
+    "is_premium": false,
+    "first_name": "My",
+    "last_name": "Bot",
+    "status": "UserStatus.RECENTLY",
+    "username": "iva4ubot",
+    "language_code": "en"
+}
+plugins.echo - INFO - ['yt-dlp', '--no-warnings', '--allow-dynamic-mpd', '-j', 'https://youtube.com/shorts/cHjVl5DJ1ic?si=6_vuDREOtyWfyVNS']
+plugins.echo - INFO - {
+    "_": "User",
+    "id": 5809046691,
+    "is_self": false,
+    "is_contact": false,
+    "is_mutual_contact": false,
+    "is_deleted": false,
+    "is_bot": false,
+    "is_verified": false,
+    "is_restricted": false,
+    "is_scam": false,
+    "is_fake": false,
+    "is_support": false,
+    "is_premium": false,
+    "first_name": "My",
+    "last_name": "Bot",
+    "status": "UserStatus.RECENTLY",
+    "username": "iva4ubot",
+    "language_code": "en"
+}
+plugins.echo - INFO - ['yt-dlp', '--no-warnings', '--allow-dynamic-mpd', '-j', 'https://youtube.com/shorts/BLZQ9MVG_V0?si=pa4CF5KbPabSGyjh']
+plugins.echo - INFO - {
+    "_": "User",
+    "id": 5809046691,
+    "is_self": false,
+    "is_contact": false,
+    "is_mutual_contact": false,
+    "is_deleted": false,
+    "is_bot": false,
+    "is_verified": false,
+    "is_restricted": false,
+    "is_scam": false,
+    "is_fake": false,
+    "is_support": false,
+    "is_premium": false,
+    "first_name": "My",
+    "last_name": "Bot",
+    "status": "UserStatus.RECENTLY",
+    "username": "iva4ubot",
+    "language_code": "en"
+}
+plugins.echo - INFO - ['yt-dlp', '--no-warnings', '--allow-dynamic-mpd', '-j', 'https://youtube.com/shorts/BLZQ9MVG_V0?si=pa4CF5KbPabSGyjh']
+root - INFO - Stop signal received (SIGINT). Exiting...
+__main__ - INFO - Bot Stopped ;)
+__main__ - INFO - Bot has started.
+__main__ - INFO - **Bot Started**
+
+**Pyrogram Version:** 2.0.106 
+**Layer:** 158
+__main__ - INFO - Developed by github.com/kalanakt Sponsored by www.netronk.com
+plugins.echo - INFO - {
+    "_": "User",
+    "id": 5809046691,
+    "is_self": false,
+    "is_contact": false,
+    "is_mutual_contact": false,
+    "is_deleted": false,
+    "is_bot": false,
+    "is_verified": false,
+    "is_restricted": false,
+    "is_scam": false,
+    "is_fake": false,
+    "is_support": false,
+    "is_premium": false,
+    "first_name": "My",
+    "last_name": "Bot",
+    "status": "UserStatus.RECENTLY",
+    "username": "iva4ubot",
+    "language_code": "en"
+}
+plugins.echo - INFO - ['yt-dlp', '--no-warnings', '--allow-dynamic-mpd', '-j', 'https://youtube.com/shorts/BLZQ9MVG_V0?si=pa4CF5KbPabSGyjh']
+pyrogram.dispatcher - ERROR - 'utf-8' codec can't decode byte 0x92 in position 52: invalid start byte
+Traceback (most recent call last):
+  File "C:\Users\Ivan-Sunil\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyrogram\dispatcher.py", line 240, in handler_worker
+    await handler.callback(self.client, *args)
+  File "C:\Users\Ivan-Sunil\Desktop\All-Url-Uploader\plugins\echo.py", line 137, in echo
+    e_response = stderr.decode().strip()
+                 ^^^^^^^^^^^^^^^
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0x92 in position 52: invalid start byte
+root - INFO - Stop signal received (SIGINT). Exiting...
+__main__ - INFO - Bot Stopped ;)
+__main__ - INFO - Bot has started.
+__main__ - INFO - **Bot Started**
+
+**Pyrogram Version:** 2.0.106 
+**Layer:** 158
+__main__ - INFO - Developed by github.com/kalanakt Sponsored by www.netronk.com
+plugins.echo - INFO - {
+    "_": "User",
+    "id": 5809046691,
+    "is_self": false,
+    "is_contact": false,
+    "is_mutual_contact": false,
+    "is_deleted": false,
+    "is_bot": false,
+    "is_verified": false,
+    "is_restricted": false,
+    "is_scam": false,
+    "is_fake": false,
+    "is_support": false,
+    "is_premium": false,
+    "first_name": "My",
+    "last_name": "Bot",
+    "status": "UserStatus.RECENTLY",
+    "username": "iva4ubot",
+    "language_code": "en"
+}
+plugins.echo - INFO - ['yt-dlp', '--no-warnings', '--allow-dynamic-mpd', '-j', 'https://youtube.com/shorts/BLZQ9MVG_V0?si=pa4CF5KbPabSGyjh']
+plugins.echo - INFO - ERROR: [youtube] BLZQ9MVG_V0: Sign in to confirm youre not a bot. This helps protect our community. Learn more
+root - INFO - Stop signal received (SIGINT). Exiting...
+root - INFO - Stop signal received (SIGINT). Exiting...
+__main__ - INFO - Bot Stopped ;)
+__main__ - INFO - Bot has started.
+__main__ - INFO - **Bot Started**
+
+**Pyrogram Version:** 2.0.106 
+**Layer:** 158
+__main__ - INFO - Developed by github.com/kalanakt Sponsored by www.netronk.com
+plugins.echo - INFO - {
+    "_": "User",
+    "id": 5809046691,
+    "is_self": false,
+    "is_contact": false,
+    "is_mutual_contact": false,
+    "is_deleted": false,
+    "is_bot": false,
+    "is_verified": false,
+    "is_restricted": false,
+    "is_scam": false,
+    "is_fake": false,
+    "is_support": false,
+    "is_premium": false,
+    "first_name": "My",
+    "last_name": "Bot",
+    "status": "UserStatus.RECENTLY",
+    "username": "iva4ubot",
+    "language_code": "en"
+}
+plugins.echo - INFO - ['yt-dlp', '--no-warnings', '--allow-dynamic-mpd', '-j', 'https://youtube.com/shorts/BLZQ9MVG_V0?si=pa4CF5KbPabSGyjh']
+plugins.echo - INFO - ERROR: [youtube] BLZQ9MVG_V0: Sign in to confirm youre not a bot. This helps protect our community. Learn more
+plugins.echo - INFO - {
+    "_": "User",
+    "id": 5809046691,
+    "is_self": false,
+    "is_contact": false,
+    "is_mutual_contact": false,
+    "is_deleted": false,
+    "is_bot": false,
+    "is_verified": false,
+    "is_restricted": false,
+    "is_scam": false,
+    "is_fake": false,
+    "is_support": false,
+    "is_premium": false,
+    "first_name": "My",
+    "last_name": "Bot",
+    "status": "UserStatus.RECENTLY",
+    "username": "iva4ubot",
+    "language_code": "en"
+}
+plugins.echo - INFO - ['yt-dlp', '--no-warnings', '--allow-dynamic-mpd', '-j', 'https://youtube.com/shorts/BLZQ9MVG_V0?si=pa4CF5KbPabSGyjh']
+root - INFO - Stop signal received (SIGINT). Exiting...
+__main__ - INFO - Bot Stopped ;)
+__main__ - INFO - Bot has started.
+__main__ - INFO - **Bot Started**
+
+**Pyrogram Version:** 2.0.106 
+**Layer:** 158
+__main__ - INFO - Developed by github.com/kalanakt Sponsored by www.netronk.com
+plugins.echo - INFO - {
+    "_": "User",
+    "id": 5809046691,
+    "is_self": false,
+    "is_contact": false,
+    "is_mutual_contact": false,
+    "is_deleted": false,
+    "is_bot": false,
+    "is_verified": false,
+    "is_restricted": false,
+    "is_scam": false,
+    "is_fake": false,
+    "is_support": false,
+    "is_premium": false,
+    "first_name": "My",
+    "last_name": "Bot",
+    "status": "UserStatus.RECENTLY",
+    "username": "iva4ubot",
+    "language_code": "en"
+}
+plugins.echo - INFO - ['yt-dlp', '--no-warnings', '--allow-dynamic-mpd', '-j', 'https://youtube.com/shorts/BLZQ9MVG_V0?si=pa4CF5KbPabSGyjh']
+plugins.echo - INFO - ERROR: [youtube] BLZQ9MVG_V0: Sign in to confirm youre not a bot. This helps protect our community. Learn more
+root - INFO - Stop signal received (SIGINT). Exiting...
+root - INFO - Stop signal received (SIGINT). Exiting...
+__main__ - INFO - Bot Stopped ;)
+__main__ - INFO - Bot has started.
+__main__ - INFO - **Bot Started**
+
+**Pyrogram Version:** 2.0.106 
+**Layer:** 158
+__main__ - INFO - Developed by github.com/kalanakt Sponsored by www.netronk.com
+plugins.echo - INFO - {
+    "_": "User",
+    "id": 5809046691,
+    "is_self": false,
+    "is_contact": false,
+    "is_mutual_contact": false,
+    "is_deleted": false,
+    "is_bot": false,
+    "is_verified": false,
+    "is_restricted": false,
+    "is_scam": false,
+    "is_fake": false,
+    "is_support": false,
+    "is_premium": false,
+    "first_name": "My",
+    "last_name": "Bot",
+    "status": "UserStatus.RECENTLY",
+    "username": "iva4ubot",
+    "language_code": "en"
+}
+plugins.echo - INFO - ['yt-dlp', '--no-warnings', '--allow-dynamic-mpd', '-j', 'https://youtube.com/shorts/BLZQ9MVG_V0?si=pa4CF5KbPabSGyjh']
+plugins.echo - INFO - ERROR: [youtube] BLZQ9MVG_V0: Sign in to confirm youre not a bot. This helps protect our community. Learn more
+root - INFO - Stop signal received (SIGINT). Exiting...
+__main__ - INFO - Bot Stopped ;)
+__main__ - INFO - Bot has started.
+__main__ - INFO - **Bot Started**
+
+**Pyrogram Version:** 2.0.106 
+**Layer:** 158
+__main__ - INFO - Developed by github.com/kalanakt Sponsored by www.netronk.com
+plugins.echo - INFO - {
+    "_": "User",
+    "id": 5809046691,
+    "is_self": false,
+    "is_contact": false,
+    "is_mutual_contact": false,
+    "is_deleted": false,
+    "is_bot": false,
+    "is_verified": false,
+    "is_restricted": false,
+    "is_scam": false,
+    "is_fake": false,
+    "is_support": false,
+    "is_premium": false,
+    "first_name": "My",
+    "last_name": "Bot",
+    "status": "UserStatus.RECENTLY",
+    "username": "iva4ubot",
+    "language_code": "en"
+}
+plugins.echo - INFO - ['yt-dlp', '--no-warnings', '--allow-dynamic-mpd', '-j', 'https://youtube.com/shorts/BLZQ9MVG_V0?si=pa4CF5KbPabSGyjh']
+plugins.echo - INFO - ERROR: [youtube] BLZQ9MVG_V0: Sign in to confirm youre not a bot. This helps protect our community. Learn more
+root - INFO - Stop signal received (SIGINT). Exiting...
+__main__ - INFO - Bot Stopped ;)
+__main__ - INFO - Bot has started.
+__main__ - INFO - **Bot Started**
+
+**Pyrogram Version:** 2.0.106 
+**Layer:** 158
+__main__ - INFO - Developed by github.com/kalanakt Sponsored by www.netronk.com
+plugins.echo - INFO - {
+    "_": "User",
+    "id": 5809046691,
+    "is_self": false,
+    "is_contact": false,
+    "is_mutual_contact": false,
+    "is_deleted": false,
+    "is_bot": false,
+    "is_verified": false,
+    "is_restricted": false,
+    "is_scam": false,
+    "is_fake": false,
+    "is_support": false,
+    "is_premium": false,
+    "first_name": "My",
+    "last_name": "Bot",
+    "status": "UserStatus.RECENTLY",
+    "username": "iva4ubot",
+    "language_code": "en"
+}
+plugins.echo - INFO - ['yt-dlp', '--no-warnings', '--allow-dynamic-mpd', '-j', 'https://youtube.com/shorts/BLZQ9MVG_V0?si=pa4CF5KbPabSGyjh']
+plugins.echo - INFO - 
+plugins.button - INFO - ['yt-dlp', '-c', '--max-filesize', '4194304000', '--embed-subs', '-f', '609+bestaudio', '--bidi-workaround', 'https://youtube.com/shorts/BLZQ9MVG_V0?si=pa4CF5KbPabSGyjh', '-o', './DOWNLOADS/5809046691KVJKK/Thalapathy Vijay Trisha 💞 Allu Arjun Rashmika Dance #mydreameditz_609.mp4', '--no-warnings', '--no-simulate', '--quiet']
+plugins.button - INFO - 
+plugins.button - INFO - 
+root - INFO - Stop signal received (SIGINT). Exiting...
+__main__ - INFO - Bot Stopped ;)
