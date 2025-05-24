@@ -597,3 +597,105 @@ plugins.button - INFO -
 plugins.button - INFO - 
 root - INFO - Stop signal received (SIGINT). Exiting...
 __main__ - INFO - Bot Stopped ;)
+__main__ - ERROR - Please set BOT_TOKEN in config.py or as env var
+__main__ - INFO - Bot has started.
+__main__ - INFO - **Bot Started**
+
+**Pyrogram Version:** 2.0.106 
+**Layer:** 158
+__main__ - INFO - Developed by github.com/kalanakt Sponsored by www.netronk.com
+plugins.echo - INFO - {
+    "_": "User",
+    "id": 5809046691,
+    "is_self": false,
+    "is_contact": false,
+    "is_mutual_contact": false,
+    "is_deleted": false,
+    "is_bot": false,
+    "is_verified": false,
+    "is_restricted": false,
+    "is_scam": false,
+    "is_fake": false,
+    "is_support": false,
+    "is_premium": false,
+    "first_name": "My",
+    "last_name": "Bot",
+    "status": "UserStatus.RECENTLY",
+    "username": "iva4ubot",
+    "language_code": "en"
+}
+plugins.echo - INFO - ['yt-dlp', '--no-warnings', '--allow-dynamic-mpd', '-j', 'https://youtube.com/shorts/BLZQ9MVG_V0?si=pa4CF5KbPabSGyjh']
+plugins.echo - INFO - ERROR: [youtube] BLZQ9MVG_V0: Sign in to confirm youre not a bot. This helps protect our community. Learn more
+root - INFO - Stop signal received (SIGINT). Exiting...
+__main__ - INFO - Bot Stopped ;)
+__main__ - INFO - Bot has started.
+__main__ - INFO - **Bot Started**
+
+**Pyrogram Version:** 2.0.106 
+**Layer:** 158
+__main__ - INFO - Developed by github.com/kalanakt Sponsored by www.netronk.com
+root - INFO - Stop signal received (SIGINT). Exiting...
+__main__ - INFO - Bot Stopped ;)
+__main__ - INFO - Bot has started.
+__main__ - INFO - **Bot Started**
+
+**Pyrogram Version:** 2.0.106 
+**Layer:** 158
+__main__ - INFO - Developed by github.com/kalanakt Sponsored by www.netronk.com
+plugins.echo - INFO - {
+    "_": "User",
+    "id": 5809046691,
+    "is_self": false,
+    "is_contact": false,
+    "is_mutual_contact": false,
+    "is_deleted": false,
+    "is_bot": false,
+    "is_verified": false,
+    "is_restricted": false,
+    "is_scam": false,
+    "is_fake": false,
+    "is_support": false,
+    "is_premium": false,
+    "first_name": "My",
+    "last_name": "Bot",
+    "status": "UserStatus.RECENTLY",
+    "username": "iva4ubot",
+    "language_code": "en"
+}
+plugins.echo - INFO - ['yt-dlp', '--no-warnings', '--allow-dynamic-mpd', '-j', 'https://youtube.com/shorts/BLZQ9MVG_V0?si=pa4CF5KbPabSGyjh']
+plugins.echo - INFO - ERROR: [youtube] BLZQ9MVG_V0: Sign in to confirm youre not a bot. This helps protect our community. Learn more
+root - INFO - Stop signal received (SIGINT). Exiting...
+__main__ - INFO - Bot Stopped ;)
+__main__ - INFO - Bot has started.
+__main__ - INFO - **Bot Started**
+
+**Pyrogram Version:** 2.0.106 
+**Layer:** 158
+__main__ - INFO - Developed by github.com/kalanakt Sponsored by www.netronk.com
+plugins.echo - INFO - {
+    "_": "User",
+    "id": 5809046691,
+    "is_self": false,
+    "is_contact": false,
+    "is_mutual_contact": false,
+    "is_deleted": false,
+    "is_bot": false,
+    "is_verified": false,
+    "is_restricted": false,
+    "is_scam": false,
+    "is_fake": false,
+    "is_support": false,
+    "is_premium": false,
+    "first_name": "My",
+    "last_name": "Bot",
+    "status": "UserStatus.RECENTLY",
+    "username": "iva4ubot",
+    "language_code": "en"
+}
+plugins.echo - INFO - ['yt-dlp', '--no-warnings', '--allow-dynamic-mpd', '-j', 'https://youtube.com/shorts/BLZQ9MVG_V0?si=pa4CF5KbPabSGyjh']
+plugins.echo - INFO - 
+plugins.button - INFO - ['yt-dlp', '-c', '--max-filesize', '4194304000', '--embed-subs', '-f', '136+bestaudio', '--bidi-workaround', 'https://youtube.com/shorts/BLZQ9MVG_V0?si=pa4CF5KbPabSGyjh', '-o', './DOWNLOADS/5809046691vUnwt/Thalapathy Vijay Trisha 💞 Allu Arjun Rashmika Dance #mydreameditz_136.mp4', '--no-warnings', '--no-simulate', '--quiet']
+plugins.button - INFO - 
+plugins.button - INFO - 
+root - INFO - Stop signal received (SIGINT). Exiting...
+__main__ - INFO - Bot Stopped ;)
