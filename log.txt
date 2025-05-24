@@ -597,3 +597,4 @@ plugins.button - INFO -
 plugins.button - INFO - 
 root - INFO - Stop signal received (SIGINT). Exiting...
 __main__ - INFO - Bot Stopped ;)
+__main__ - ERROR - Please set BOT_TOKEN in config.py or as env var

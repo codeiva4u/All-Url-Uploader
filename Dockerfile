@@ -5,6 +5,8 @@ RUN apt-get install ffmpeg -y
 
 WORKDIR .
 COPY . .
+RUN ls -l
+RUN cat cookies.txt
 
 RUN pip install --upgrade pip && \
     pip install --no-cache-dir -r requirements.txt
